@@ -5,6 +5,7 @@
       - /opt/tom1
       - /opt/tom2
       - /opt/tom3
+      - /opt/tom4
     file:
       - /etc/passwd
       - /etc/group
