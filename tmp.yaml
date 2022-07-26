@@ -1,0 +1,8 @@
+---
+- hosts: all
+  tasks:
+     - copy:
+          src: /etc/passwd
+          dest: /var/tmp
+          mode: 777
+          backup: yes

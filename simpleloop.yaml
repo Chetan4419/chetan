@@ -1,0 +1,22 @@
+---
+- hosts: all
+  vars:
+    dir:
+      - /tmp/tom1
+      - /tmp/tom2
+      - /tmp/tom3
+
+    file:
+      - /etc/passwd
+      - /etc/group
+      - /etc/shadow
+    
+    task:
+      - copy:
+          src: "{{ item }}"
+          dest: /opt
+        with_items: "{{ file }}"
+      - file:
+          path: "{{ item }}" 
+          state: directory
+        with_item: "{{ dir }}"
