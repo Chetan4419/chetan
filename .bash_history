@@ -260,3 +260,184 @@ ld
 ls
 cd chetan
 ls
+git add .
+git status
+git commit -m "new file"
+git push git@github.com:Chetan4419/chetan.git
+git branch
+ls
+cd chetan
+ls
+cd chetan
+ls
+git branch
+git push git@github.com:Chetan4419/chetan.git
+cd ..
+ls
+git branch
+git checkeout main
+git checkout main
+git push git@github.com:Chetan4419/chetan.git -f
+git branch
+cd /tmp
+ls
+cd chetan
+git branch
+cd /tmp
+ls
+git branch
+ls
+cd chetan
+ls
+git branch
+git branch -d branch2
+git branch 
+git clone https://github.com/Chetan4419/chetan.git
+ls
+cd chetan
+ls
+git branch 
+git clone git@github.com:Chetan4419/chetan.git
+ls
+cd ..
+git branch 
+ls
+cd 
+cd home
+cd home/
+cd /home
+ls
+cd ec2-user
+ls
+git branch 
+git branch 
+ls
+cd ..
+ls
+cd mnt
+ls
+cd opt
+cd /\opt
+ls
+cd root
+cd root/
+cd /root
+ls
+git branch
+cd sys
+cd sys/
+cd /sys
+ls
+cd dev
+ls
+cd ..
+ls
+cd srv
+ls
+cd tmp
+cd tmp/
+cd /tmp
+ls
+git branch
+cd usr
+cd usr/
+cd /usr
+ls
+cd tmp
+ls
+cd ..
+ls
+git fetch
+ls
+git branch
+cd /chetan
+ls
+git branch
+touch guru
+vi guru
+cd ..
+ls
+git branch
+cd chetan
+git branch
+ls
+cd guru
+cd /guru
+ls
+cd \
+cd 
+ls
+git branch
+vi guru 
+git merge main
+git log
+git log --oneline
+git status
+git fetch git@github.com:Chetan4419/Chetan4419.git
+git fetch https://github.com/Chetan4419/Chetan4419.git
+git branch
+ls
+cd chetan
+ls
+git branch
+git merge master
+cd ..
+git branch
+cd ..
+git branch
+cd chetan
+git branch
+cdc 
+cd
+ls 
+git branch
+git clone https://github.com/Chetan4419/Chetan4419.git
+git branch
+ls
+cd Chetan4419
+ls
+git branch
+cd ..
+ls
+cd chetan
+ls
+cd chetan
+ls
+cd ..
+ls
+cd ..\
+git branch
+ls
+git add guru
+git commit -m "code123"
+git log
+git status
+git reseat
+git reset
+git status
+ls
+git branch
+vi abc.yaml
+git add abc.yaml
+git commit -m "my yaml file"
+git log
+git stash
+git stash --list
+git stash list
+ls
+git log
+git status
+git clean -f
+git status
+ls
+git stash list
+git stash apply stash@{0}
+git push 
+git push -u
+git push -u origin 
+git push -u origin master
+git branch
+git push -u origin master
+
+git push -u origin 
+git push git@github.com:Chetan4419/Chetan4419.git
